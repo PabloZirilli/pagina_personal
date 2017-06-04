@@ -1,0 +1,128 @@
+/* MAIN-BG.CSS contains Background Image paths & definition rules powered by CSS */
+.nav-bg { background-image: url('../images/menu.jpg'); }
+.about-bg { background-image: url('../images/bg/01.jpg'); }
+.about-bg-01 { background-image: url('../images/about/01.jpg'); }
+.about-bg-02 { background-image: url('../images/about/02.jpg'); }
+.about-bg-03 { background-image: url('../images/about/03.jpg'); }
+.about-bg-04 { background-image: url('../images/about/04.jpg'); }
+.journal-bg { background-image: url('../images/bg/01.jpg'); }
+.contact-bg { background-image: url('../images/bg/03.jpg'); }
+
+
+/* POLPH */
+	.project-01-carousel-item-01{ background-image: url(../images/project/polph/01.jpg); }
+	.project-01-carousel-item-02{ background-image: url(../images/project/polph/02.jpg); }
+	.project-01-carousel-item-03{ background-image: url(../images/project/polph/03.jpg); }
+
+/* PERTURBIA */
+	.project-02-carousel-item-01{ background-image: url(../images/project/perturbia/01.jpg); }
+	.project-02-carousel-item-02{ background-image: url(../images/project/perturbia/02.jpg); }
+	.project-02-carousel-item-03{ background-image: url(../images/project/perturbia/03.jpg); }
+	.project-02-carousel-item-04{ background-image: url(../images/project/perturbia/04.jpg); }
+	.project-02-carousel-item-05{ background-image: url(../images/project/perturbia/05.jpg); }
+	.project-02-carousel-item-06{ background-image: url(../images/project/perturbia/06.jpg); }
+	.project-02-carousel-item-07{ background-image: url(../images/project/perturbia/07.jpg); }
+
+/* CAPERUCITA */
+	.project-03-carousel-item-01{ background-image: url(../images/project/caperucita/01.jpg); }
+	.project-03-carousel-item-02{ background-image: url(../images/project/caperucita/02.jpg); }
+	.project-03-carousel-item-03{ background-image: url(../images/project/caperucita/03.jpg); }
+	.project-03-carousel-item-04{ background-image: url(../images/project/caperucita/04.jpg); }
+
+/* RESTORE */
+	.project-04-carousel-item-01{ background-image: url(../images/project/restore/01.jpg); }
+	.project-04-carousel-item-02{ background-image: url(../images/project/restore/02.jpg); }
+	.project-04-carousel-item-03{ background-image: url(../images/project/restore/03.jpg); }
+	.project-04-carousel-item-04{ background-image: url(../images/project/restore/04.jpg); }
+
+/* DEWILDES */
+	.project-05-carousel-item-01{ background-image: url(../images/project/dewildes/01.jpg); }
+	.project-05-carousel-item-02{ background-image: url(../images/project/dewildes/02.jpg); }
+	.project-05-carousel-item-03{ background-image: url(../images/project/dewildes/03.jpg); }
+	.project-05-carousel-item-04{ background-image: url(../images/project/dewildes/04.jpg); }
+
+/* SELF */
+	.project-06-carousel-item-01{ background-image: url(../images/project/selfmarketing/01.jpg); }
+	.project-06-carousel-item-02{ background-image: url(../images/project/selfmarketing/02.jpg); }
+	.project-06-carousel-item-03{ background-image: url(../images/project/selfmarketing/03.jpg); }
+	.project-06-carousel-item-04{ background-image: url(../images/project/selfmarketing/04.jpg); }
+
+/* AMAR */
+	.project-07-carousel-item-01{ background-image: url(../images/project/joyasamar/01.jpg); }
+	.project-07-carousel-item-02{ background-image: url(../images/project/joyasamar/02.jpg); }
+	.project-07-carousel-item-03{ background-image: url(../images/project/joyasamar/03.jpg); }
+	.project-07-carousel-item-04{ background-image: url(../images/project/joyasamar/04.jpg); }
+
+/* LAVALLE */
+	.project-08-carousel-item-01{ background-image: url(../images/project/lavalle/01.jpg); }
+	.project-08-carousel-item-02{ background-image: url(../images/project/lavalle/02.jpg); }
+	.project-08-carousel-item-03{ background-image: url(../images/project/lavalle/03.jpg); }
+	.project-08-carousel-item-04{ background-image: url(../images/project/lavalle/04.jpg); }
+
+/* AKIRA */
+	.project-09-carousel-item-01{ background-image: url(../images/project/akira/01.jpg); }
+	.project-09-carousel-item-02{ background-image: url(../images/project/akira/02.jpg); }
+	.project-09-carousel-item-03{ background-image: url(../images/project/akira/03.jpg); }
+	.project-09-carousel-item-04{ background-image: url(../images/project/akira/04.jpg); }
+	.project-09-carousel-item-05{ background-image: url(../images/project/akira/05.jpg); }
+
+/* ROCA */
+	.project-10-carousel-item-01{ background-image: url(../images/project/roca/01.jpg); }
+	.project-10-carousel-item-02{ background-image: url(../images/project/roca/02.jpg); }
+	.project-10-carousel-item-03{ background-image: url(../images/project/roca/03.jpg); }
+	.project-10-carousel-item-04{ background-image: url(../images/project/roca/04.jpg); }
+	.project-10-carousel-item-05{ background-image: url(../images/project/roca/05.jpg); }
+	.project-10-carousel-item-06{ background-image: url(../images/project/roca/06.jpg); }
+
+/* PARK */
+	.project-11-carousel-item-01{ background-image: url(../images/project/park/01.jpg); }
+	.project-11-carousel-item-02{ background-image: url(../images/project/park/02.jpg); }
+	.project-11-carousel-item-03{ background-image: url(../images/project/park/03.jpg); }
+	.project-11-carousel-item-04{ background-image: url(../images/project/park/04.jpg); }
+
+/* CASIEGERA */
+	.project-12-carousel-item-01{ background-image: url(../images/project/casiegera/01.jpg); }
+	.project-12-carousel-item-02{ background-image: url(../images/project/casiegera/02.jpg); }
+	.project-12-carousel-item-03{ background-image: url(../images/project/casiegera/03.jpg); }
+	.project-12-carousel-item-04{ background-image: url(../images/project/casiegera/04.jpg); }
+
+/* ARMOVIES */
+	.project-13-carousel-item-01{ background-image: url(../images/project/armovies/01.jpg); }
+	.project-13-carousel-item-02{ background-image: url(../images/project/armovies/02.jpg); }
+	.project-13-carousel-item-03{ background-image: url(../images/project/armovies/03.jpg); }
+	.project-13-carousel-item-04{ background-image: url(../images/project/armovies/04.jpg); }
+	.project-13-carousel-item-05{ background-image: url(../images/project/armovies/05.jpg); }
+
+/* NUTRIPLUS */
+	.project-14-carousel-item-01{ background-image: url(../images/project/nutriplus/01.jpg); }
+	.project-14-carousel-item-02{ background-image: url(../images/project/nutriplus/02.jpg); }
+	.project-14-carousel-item-03{ background-image: url(../images/project/nutriplus/03.jpg); }
+
+/* JEB */
+	.project-15-carousel-item-01{ background-image: url(../images/project/jebsa/01.jpg); }
+	.project-15-carousel-item-02{ background-image: url(../images/project/jebsa/02.jpg); }
+	.project-15-carousel-item-03{ background-image: url(../images/project/jebsa/03.jpg); }
+	.project-15-carousel-item-04{ background-image: url(../images/project/jebsa/04.jpg); }
+	.project-15-carousel-item-05{ background-image: url(../images/project/jebsa/05.jpg); }
+
+/* COTO */
+	.project-16-carousel-item-01{ background-image: url(../images/project/coto/01.jpg); }
+	.project-16-carousel-item-02{ background-image: url(../images/project/coto/02.jpg); }
+	.project-16-carousel-item-03{ background-image: url(../images/project/coto/03.jpg); }
+	.project-16-carousel-item-04{ background-image: url(../images/project/coto/04.jpg); }
+	.project-16-carousel-item-05{ background-image: url(../images/project/coto/05.jpg); }
+
+
+/* ORIGINAL .parallax-showcase-01 { background-image: url('../images/project/project01/02.jpg'); } */
+
+.parallax-showcase-01 { background-image: url(../images/project/polph/01_parallax.jpg); }
+
+.parallax-showcase-02 { background-image: url('../images/project/project01/03.jpg'); }
+
+.parallax-showcase-03 { background-image: url('../images/project/project01/01.jpg'); }
+
+
+
+.call-to-action-bg { background-image: url('../images/bg/02.jpg'); }
+
+.stats-bg { background-image: url('../images/bg/05.jpg'); }
